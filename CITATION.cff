@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this evidence package, cite the tagged repository release."
+title: "CivicOS reference implementation excerpts and article evidence package"
+type: software
+version: 1.0.0
+date-released: 2026-09-01
+authors:
+  - family-names: Sufiye
+    given-names: Shooresh
+repository-code: "https://github.com/ShooreshS/CivicOS-Reconciling-Human-Verified-Eligibility-with-Privacy-Preserving-Mobile-Participation"
+url: "https://github.com/ShooreshS/CivicOS-Reconciling-Human-Verified-Eligibility-with-Privacy-Preserving-Mobile-Participation"
+abstract: "Sanitized evidence, measurement methods, public devnet identifiers, and limited source excerpts supporting the CivicOS feasibility article."
+keywords:
+  - civic technology
+  - mobile computing
+  - zero-knowledge proofs
+  - reproducibility
+  - Solana devnet

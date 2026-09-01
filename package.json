@@ -1,0 +1,13 @@
+{
+  "name": "civicos-article-reference-package",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/verify-reference-package.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
